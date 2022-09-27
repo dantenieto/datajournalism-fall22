@@ -19,5 +19,8 @@ By Alana Watson
 - Quality - 2/5
   - There were ways to visualize the data the author presents that would have given the story the weight it deserved. That said, the story was well written and effectively communicates the severity of the issue. The anecdotal aspect that sets up the whole story was a good lead-in and helped give disenfranchisement a face.
 
-- Types and Color
+- Types and Color 2/5
   - The circular charts felt disjointed. It was very strange to look at. Some states are abbreviated, others aren't -- seemingly at random. The circle charts also don't offer an explanation for what any of the colors mean. 
+
+- Creativity 2/5
+  - I appreciate the attempt at creativity on the circular graphic, but it didn't communicate very much and ended up being unnecessary and distracting. 
