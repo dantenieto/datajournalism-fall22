@@ -15,3 +15,9 @@ By Alana Watson
 
 - Accuracy - ?
   - It's difficult to speak to the accuracy of this article. Some of the sources cited do not actually contain the information she presents. I may have missed it, but I scowered her main source's website, and couldn't find many matches.
+
+- Quality - 2/5
+  - There were ways to visualize the data the author presents that would have given the story the weight it deserved. That said, the story was well written and effectively communicates the severity of the issue. The anecdotal aspect that sets up the whole story was a good lead-in and helped give disenfranchisement a face.
+
+- Types and Color
+  - The circular charts felt disjointed. It was very strange to look at. Some states are abbreviated, others aren't -- seemingly at random.
